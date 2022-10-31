@@ -1,5 +1,5 @@
 # Hello world, I am Amanda! :wave:
-A special README file about a special math girl.
+A special README file about a budding software engineer.
 
 ## About me 👩‍🎓
 Amanda is my name, and Python is my game:
